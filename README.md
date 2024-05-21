@@ -29,10 +29,10 @@ Compute the total of sum1 and sum2 and multiply the result by 9, checksum is fou
 by extracting the rightmost digit.
 Program should display if the credit is valid or not valid at the end. <br>
 
-<img width="547" alt="Example" src="https://github.com/Adeegithub/Credit-Card-Validator/assets/48938226/1bfea75b-2407-4427-9261-33156d4b932f">
+<img width="547" alt="Example" src="https://github.com/Adeegithub/Credit-Card-Validator/assets/48938226/1bfea75b-2407-4427-9261-33156d4b932f"> <br>
 
-<img width="635" alt="Snapshot 1" src="https://github.com/Adeegithub/Credit-Card-Validator/assets/48938226/9d2774f9-21ef-43b4-a474-64506371c499">
+<img width="635" alt="Snapshot 1" src="https://github.com/Adeegithub/Credit-Card-Validator/assets/48938226/9d2774f9-21ef-43b4-a474-64506371c499"> <br>
 
-<img width="635" alt="Snapshot 2" src="https://github.com/Adeegithub/Credit-Card-Validator/assets/48938226/8cbf3793-ff7c-4ec3-8505-1b1547cca3cc">
+<img width="635" alt="Snapshot 2" src="https://github.com/Adeegithub/Credit-Card-Validator/assets/48938226/8cbf3793-ff7c-4ec3-8505-1b1547cca3cc"> <br>
 
 
