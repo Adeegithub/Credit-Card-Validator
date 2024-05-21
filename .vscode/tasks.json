@@ -1,0 +1,33 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build and run",
+            "type": "shell",
+            "command": "/usr/bin/g++",
+            "args": [
+                "-std=c++11",
+                "-o",
+                "main",
+                "main.cpp"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Generated task"
+        },
+        {
+            "label": "run",
+            "type": "shell",
+            "command": "./main",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
+        }
+    ]
+}
